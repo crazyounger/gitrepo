@@ -59,6 +59,8 @@ git commit -m 'git checkout branch'
 change content on master branch 
 change content on dev branch
 
+bug fix ,haha 
+
  
 
 
