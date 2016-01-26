@@ -59,6 +59,6 @@ git commit -m 'git checkout branch'
 change content on dev branch
 
  
-
+i change some thing on dev branch .and push to origin/dev branch ;
 
 
