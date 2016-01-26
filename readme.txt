@@ -57,6 +57,8 @@ git checkout -b dev
 git add readme.txt
 git commit -m 'git checkout branch'
 change content on master branch 
+change content on dev branch
+
  
 
 
