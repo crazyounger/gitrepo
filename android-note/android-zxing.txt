@@ -1,0 +1,29 @@
+android Zxing 目录：
+  android：一个二维码扫描的app,基于android-core和core
+  -------------
+  android-core ： 二维码基于android平台的封装
+  core ： 二维码的核心代码
+  
+  +++++++++++++++++++++++++++++++++++++++++
+  下面就android项目的目录结构进行分析：
+    1 book ： 如果扫描的是书籍信息，提供了书籍的信息查找的相关类：包含搜索和展示书籍信息的类
+	2 camera|camera.open :  关于摄像头的类，核心类是 CameraManager
+	3 clipboard ： 剪贴板
+	4 encode ： 编码功能的各个组件集合，核心类为 QRCodeEncoder,最终实施编码的是MultiFormatWriter
+	5 history ： 扫描历史管理，核心类是 History
+	6 result :  扫描结果
+	7 share ： 分享相关组件
+	8 wifi : 网络相关类
+	
+  -----------------------------------------------------------------
+	下面主要对camera 进行分析：
+	 OpenCameraInterface：打开相机的类
+	 OpenCamera : 对相机信息的一个封装
+	 CameraFacing ： 一个枚举类，前置和后置摄像头
+	 
+	 CameraManager: 核心类，相机管理类
+	 CameraConfigurationManager :相机配置类
+	 FrontLightMode : 摄像灯开关的枚举类
+	 AutoFocusManager ： 自动聚焦回调类，实现了 Camera.AutoFocusCallback 
+	 PreviewCallback： 预览回调类，实现了 Camera.PreviewCallback
+	 
