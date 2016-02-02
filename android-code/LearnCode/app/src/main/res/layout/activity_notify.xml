@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="Nifty Modal Notification Effects"
+        android:gravity="center"
+        android:background="#000000"
+        android:textColor="#ffffff"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_title"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_slidein_eff"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SlideIn Effect"
+                android:layout_margin="10dp"
+                android:padding="5dp"/>
+
+            <Button
+                android:id="@+id/btn_flip_eff"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Flip Effect"
+                android:layout_margin="10dp"
+                android:padding="5dp"/>
+
+            <Button
+                android:id="@+id/btn_jelly_eff"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Jelly Effect"
+                android:layout_margin="10dp"
+                android:padding="5dp"/>
+
+            <Button
+                android:id="@+id/btn_slideontop_eff"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SlideOnTop Effect"
+                android:layout_margin="10dp"
+                android:padding="5dp"/>
+
+            <Button
+                android:id="@+id/btn_standard_eff"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Standard Effect"
+                android:layout_margin="10dp"
+                android:padding="5dp"/>
+
+            <Button
+                android:id="@+id/btn_thumbslider_eff"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ThumbSlider Effect"
+                android:layout_margin="10dp"
+                android:padding="5dp"/>
+
+            <Button
+                android:id="@+id/btn_scale_eff"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Scale Effect"
+                android:layout_margin="10dp"
+                android:padding="5dp"/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/notifit_layout"
+        android:layout_below="@id/tv_title"
+        android:clipChildren="true"/>
+</RelativeLayout>

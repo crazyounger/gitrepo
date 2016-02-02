@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LearnCode</string>
+    <string name="home_content">this is content</string>
+
+    <string-array name="sample_list">
+        <item>Morphing Button - Icon</item>
+        <item>Morphing Button - Icon &amp; Text</item>
+        <item>Linear Progress Button - Determinate</item>
+        <item>Linear Progress Button - Indeterminate</item>
+    </string-array>
+
+
+    <string name="close_warning">再按一次，退出程序</string>
+
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="any_orientation">1D Any Orientation</string>
+    <string name="scan_from_fragment">Scan from fragment</string>
+    <string name="front_camera">Front Camera</string>
+    <string name="custom_activity">Continuous Scan</string>
+    <string name="toolbar_activity">Activity with Toolbar</string>
+    <string name="custom_scanner">Custom Scanner Activity</string>
+    <string name="scanner_with_margin">Scanner with Margin</string>
+    <string name="turn_on_flashlight">Turn on Flashlight</string>
+    <string name="turn_off_flashlight">Turn off Flashlight</string>
+
+</resources>

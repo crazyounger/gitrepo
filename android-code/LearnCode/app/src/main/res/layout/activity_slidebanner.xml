@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cube_mints_white">
+
+    <com.learner.learncode.view.banner.SlideBanner
+        android:id="@+id/my_slidebanner"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:slide_banner_internal="2000"
+        >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/slidebanner_viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <com.learner.learncode.view.DotView
+            android:id="@+id/slidebanner_indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:padding="10dp"
+            app:dot_radius="5dp"
+            app:dot_span="8dp"
+            />
+    </com.learner.learncode.view.banner.SlideBanner>
+
+    <com.learner.learncode.view.FlowLayout
+        android:id="@+id/flowlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginTop="10dp" >
+
+
+    </com.learner.learncode.view.FlowLayout>
+</LinearLayout>

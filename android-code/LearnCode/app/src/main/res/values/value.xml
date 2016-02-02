@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DotView" >
+        <attr name="dot_radius" format="dimension" />
+        <attr name="dot_span" format="dimension" />
+        <attr name="dot_selected_color" format="integer" />
+        <attr name="dot_unSelected_color" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="SlideBanner">
+        <attr name="slide_banner_pager" format="reference" />
+        <attr name="slide_banner_internal" format="integer" />
+        <attr name="slide_banner_indicator" format="reference" />
+    </declare-styleable>
+</resources>
