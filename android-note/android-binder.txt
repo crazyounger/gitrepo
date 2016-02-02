@@ -1,0 +1,14 @@
+android binder 总结：
+
+ 1 理解binder 
+   1.1 直观来说，binder是一个类，实现了IBinder接口
+   1.2 从IPC的角度来说，Binder 是Android的一种跨进程通信的方式，可以理解为一种虚拟的物理设备，其驱动是/dev/binder ，该通信方式在linux中没有
+   1.3 从Android Framework角度说，Binder是桥梁，是ServiceManager连接各种Manager(ActivityManager,WindowManager)和相应ManagerService的桥梁。
+   1.4 从应用层角度来说，Binder是客户端和服务端进行通信的媒介，当你使用bindservice时，服务端会返回一个包含了服务端业务调用的binder对象，通过
+       这个binder对象，客户端可以获取服务端的各种数据和服务，不论是普通服务或者AIDL服务
+	 
+ 2 为什么使用Binder作为IPC的机制
+   2.1 传统的Linux的IPC通信不满足Android的要求,即高效性和安全性。
+       传统的IPC机制：管道，System V IPC（信号量、共享内存，消息队列），以及socket。只有socket是基于client/server方式进行ipc的。
+	   
+	   

@@ -61,6 +61,10 @@ change content on dev branch
 
 bug fix ,haha 
 
+
+
+android开源项目：
+http://blog.csdn.net/footballclub/article/details/44172257
  
 
 

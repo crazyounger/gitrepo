@@ -1,0 +1,25 @@
+andorid-aidl 总结：
+
+  AIDL 是一种IDL语言，用于生成可以再android设备的两个进程之间进行跨进程通信的代码。
+  AIDL IPC是一种client/server的方式，类似于COM，Corba。但是更为轻量级。使用代理类在客户端和服务端进行数据传递。
+  
+ 使用AIDL的场合： 只有你允许客户端从不同的应用程序为了进程间的通信而去访问你的service，
+                  以及想在你的service处理多线程。如果不需要进行不同应用程序间的并发通信(IPC)，you should create your interface by implementing a Binder；
+			      或者你想进行IPC，但不需要处理多线程的，则implement your interface using a Messenger。
+				  
+ Android 中的IPC方式：
+   1 使用Bundle 
+      Activity，Service，Receiver都支持在Intent中使用Bundle 来进行数据的传递。Bundle实现了Parcelable接口。因此它可以方便的进行不同进程间的数据传输。
+	  当然我们传输的数据必须是经过序列化的，java的基本类型，以及实现了serializable，parcelable接口等。
+   2 使用文件共享
+      可以通过文件读写的方式，在2个进程之间进行数据的传递。如果传递对象，则可以将对象进行序列化，写入文件。
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
