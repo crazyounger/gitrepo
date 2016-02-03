@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/icity/!svn/ver/35597/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/download
+END
+DownloadTaskListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/icity/!svn/ver/35331/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/download/DownloadTaskListener.java
+END
+DownloadView.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/icity/!svn/ver/35331/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/download/DownloadView.java
+END
+LimitFlowInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/icity/!svn/ver/35331/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/download/LimitFlowInputStream.java
+END
+DownloadConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/icity/!svn/ver/35331/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/download/DownloadConstants.java
+END
+FileHttpDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/icity/!svn/ver/35597/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/download/FileHttpDownload.java
+END
+DownloadState.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/icity/!svn/ver/35331/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/download/DownloadState.java
+END
+DownloadTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/icity/!svn/ver/35597/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/download/DownloadTask.java
+END
+ViewState.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/icity/!svn/ver/35331/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/download/ViewState.java
+END
+DownloadTaskViewStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/icity/!svn/ver/35597/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/download/DownloadTaskViewStateListener.java
+END
+DownloadDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/icity/!svn/ver/35331/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/download/DownloadDB.java
+END
+DownloadMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/icity/!svn/ver/35522/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/download/DownloadMgr.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/icity/!svn/ver/18189/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/mobile/statistics
+END
+CrashExceptionInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/icity/!svn/ver/18189/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/mobile/statistics/CrashExceptionInterface.java
+END
+StatData.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/icity/!svn/ver/18189/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/mobile/statistics/StatData.java
+END
+DeviceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/icity/!svn/ver/18189/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/mobile/statistics/DeviceInfo.java
+END
+Stat.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/icity/!svn/ver/18189/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/mobile/statistics/Stat.java
+END
+StatService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/icity/!svn/ver/18189/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/mobile/statistics/StatService.java
+END
+CrashExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/icity/!svn/ver/18189/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/mobile/statistics/CrashExceptionHandler.java
+END

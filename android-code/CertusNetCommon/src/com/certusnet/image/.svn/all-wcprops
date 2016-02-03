@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/icity/!svn/ver/37601/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/image
+END
+IImageCapturer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/icity/!svn/ver/30469/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/image/IImageCapturer.java
+END
+BitmapLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/icity/!svn/ver/35221/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/image/BitmapLoader.java
+END
+MobileImageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/icity/!svn/ver/33320/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/image/MobileImageView.java
+END
+ImageCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/icity/!svn/ver/37601/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/image/ImageCache.java
+END
+ImageCapturer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/icity/!svn/ver/30979/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/image/ImageCapturer.java
+END
+CaptureImageTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/icity/!svn/ver/30469/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/image/CaptureImageTask.java
+END
+LocalImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/icity/!svn/ver/31108/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/image/LocalImage.java
+END
+RemoteImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/icity/!svn/ver/35222/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/image/RemoteImage.java
+END

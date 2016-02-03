@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/icity/!svn/ver/30767/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view
+END
+MarqueeTextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/icity/!svn/ver/27808/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/MarqueeTextView.java
+END
+ForbidSlideViewPager.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/icity/!svn/ver/16717/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/ForbidSlideViewPager.java
+END
+MobileViewPager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/icity/!svn/ver/25534/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/MobileViewPager.java
+END
+MobilePagerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/icity/!svn/ver/25534/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/MobilePagerAdapter.java
+END
+CircleProgressBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/icity/!svn/ver/19302/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/CircleProgressBar.java
+END
+ConditionSlidViewPager.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/icity/!svn/ver/20529/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/ConditionSlidViewPager.java
+END
+ChildViewPager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/icity/!svn/ver/17259/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/ChildViewPager.java
+END

@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">CertusNetCommon</string>
+    <string name="action_settings">settings</string>
+    <string name="back_str">返回</string>
+
+</resources>

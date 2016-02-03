@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 添加时请注意，ErrorCode和ErrorName必须一一对应 -->
+    <string-array name="ErrorCode">
+        <item>3001</item>
+        <item>3002</item>
+        <item>3003</item>
+        <item>3004</item>
+        <item>3005</item>
+        <item>3006</item>
+        <item>3007</item>
+        <item>3008</item>
+        <item>3009</item>
+        <item>3010</item>
+        <item>3011</item>
+        <item>3012</item>
+        <item>3013</item>
+        <item>3014</item>
+        <item>3015</item>
+        <item>3016</item>
+        <item>3017</item>
+        <!-- 新增 -->
+        <item>3018</item>
+        <item>3019</item>
+        <item>3020</item>
+        <item>3021</item>
+
+        <!-- 接口 error -->
+        <item>-1</item>
+        <item>3301</item>
+        <item>3302</item>
+        <item>3303</item>
+        <item>3304</item>
+        <item>3305</item>
+        <item>3306</item>
+        <item>3307</item>
+        <item>3308</item>
+        <item>3309</item>
+        <item>3310</item>
+        <item>3311</item>
+        <item>3312</item>
+        <item>3313</item>
+        <item>3314</item>
+        <item>3315</item>
+        <item>3316</item>
+        <item>3317</item>
+        <item>3318</item>
+        <item>3319</item>
+        <item>3320</item>
+        <item>3321</item>
+        <item>3322</item>
+        <item>3323</item>
+        <item>3324</item>
+        <item>3325</item>
+        <item>3326</item>
+        <item>3327</item>
+        
+    </string-array>
+    <string-array name="ErrorName">
+        <item>内存资源不足</item>
+        <item>网络无法连接</item>
+        <item>本地数据库错误</item>
+        <item>服务不可用</item>
+        <item>网络响应超时</item>
+        <item>初始化数据读取错误（MAC、配置、设备号、用户名等读取错误）</item>
+        <item>本地数据统计：异常的统计数据</item>
+        <item>不能识别的消息格式</item>
+        <item>消息丢弃（可能因为目标应用版本过低、消息格式解析失败等）</item>
+        <item>服务URL解析失败</item>
+        <item>应用下载失败</item>
+        <item>应用安装失败</item>
+        <item>应用卸载失败</item>
+        <item>应用MD5校验失败</item>
+        <item>受限本地服务被无权限的第三方应用请求</item>
+        <item>所请求的内容需要订购</item>
+        <item>用户账户状态不正常</item>
+        <!-- 新增 -->
+        <item>服务不存在</item>
+        <item>服务返回数据异常</item>
+        <item>服务请求异常,没有进行网络请求</item>
+        <item>服务 请求异常,编码错误</item>
+
+        <!-- 接口 error -->
+        <item>服务器正忙，请稍后再试!</item>
+        <item>userToken获取失败</item>
+        <item>userToken校验失败</item>
+        <item>用户名不存在</item>
+        <item>用户名已存在</item>
+        <item>用户名/密码错误</item>
+        <item>终端厂商未找到</item>
+        <item>设备类型未找到</item>
+        <item>设备未找到</item>
+        <item>MAC不匹配  </item>
+        <item>是否定制不匹配</item>
+        <item>终端认证错误 </item>
+        <item>校验发生异常 </item>
+        <item>渠道校验失败  </item>
+        <item>终端配置下发失败 </item>
+        <item>应用列表获取错误</item>
+        <item>区域列表获取错误 </item>
+        <item>应用分组获取错误</item>
+        <item>心跳请求失败 </item>
+        <item>首页新闻获取失败</item>
+        <item>推荐栏获取失败</item>
+        <item>设备绑定失败（账号被限定或绑定指定设备）</item>
+        <item>注册失败</item>
+        <item>该手机号码已被注册</item>
+        <item>验证码错误</item>
+        <item>手机号码不匹配</item>
+        <item>该账号已被绑定</item>
+        <item>不存在此绑定关系</item>
+     </string-array>
+</resources>

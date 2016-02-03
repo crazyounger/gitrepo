@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote
+END
+RegionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote/RegionInfo.java
+END
+Base.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote/Base.aidl
+END
+Parameter.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote/Parameter.aidl
+END
+IMessengerService.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote/IMessengerService.aidl
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote/Base.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote/package.html
+END
+AdvInfo.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote/AdvInfo.aidl
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote/Parameter.java
+END
+UserInfo.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote/UserInfo.aidl
+END
+CallBack.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote/CallBack.aidl
+END
+AppInfo.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote/AppInfo.aidl
+END
+AdvInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote/AdvInfo.java
+END
+RegionInfo.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote/RegionInfo.aidl
+END
+UserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote/UserInfo.java
+END
+AppInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/icity/!svn/ver/38049/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/icity/mobile/remote/AppInfo.java
+END

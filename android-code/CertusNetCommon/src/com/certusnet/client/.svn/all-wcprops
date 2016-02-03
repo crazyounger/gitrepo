@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/icity/!svn/ver/40092/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client
+END
+Accesstoken.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/icity/!svn/ver/33958/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/Accesstoken.java
+END
+FWConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/icity/!svn/ver/40092/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/FWConfig.java
+END
+HttpClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/icity/!svn/ver/40092/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/HttpClientFactory.java
+END
+FWClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/icity/!svn/ver/33295/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/FWClient.java
+END
+MobileCookieManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/icity/!svn/ver/15910/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/MobileCookieManager.java
+END

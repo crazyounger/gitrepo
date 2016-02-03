@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/log/impl
+END
+FileLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/log/impl/FileLogger.java
+END
+AndroidLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/log/impl/AndroidLogger.java
+END
+NOPLoggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/log/impl/NOPLoggerFactory.java
+END
+QuietWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/log/impl/QuietWriter.java
+END
+FileLoggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/log/impl/FileLoggerFactory.java
+END
+AndroidLoggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/log/impl/AndroidLoggerFactory.java
+END
+NOPLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/log/impl/NOPLogger.java
+END

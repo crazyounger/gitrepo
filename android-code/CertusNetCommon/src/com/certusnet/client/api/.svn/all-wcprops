@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/icity/!svn/ver/38582/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/api
+END
+MobileRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/icity/!svn/ver/31149/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/api/MobileRequest.java
+END
+InternalCustomRequestSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/icity/!svn/ver/38582/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/api/InternalCustomRequestSender.java
+END
+FWRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/icity/!svn/ver/15910/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/api/FWRequest.java
+END
+InternalRequestSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/icity/!svn/ver/15910/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/api/InternalRequestSender.java
+END
+AsyncSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/icity/!svn/ver/38582/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/api/AsyncSend.java
+END
+AbsRequestJsonHandlerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/icity/!svn/ver/18189/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/api/AbsRequestJsonHandlerListener.java
+END
+ErrorMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/icity/!svn/ver/17259/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/api/ErrorMessage.java
+END
+HttpStatusCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/icity/!svn/ver/15910/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/api/HttpStatusCode.java
+END
+InternalMobileRequestSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/icity/!svn/ver/36312/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/api/InternalMobileRequestSender.java
+END
+RequestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/icity/!svn/ver/31791/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/client/api/RequestListener.java
+END

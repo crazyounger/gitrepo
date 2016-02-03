@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/icity/!svn/ver/35675/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/receiver
+END
+BaseReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/icity/!svn/ver/35598/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/receiver/BaseReceiver.java
+END
+StatusChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/icity/!svn/ver/30392/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/receiver/StatusChangeListener.java
+END
+NetworkChangeReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/icity/!svn/ver/30392/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/receiver/NetworkChangeReceiver.java
+END
+PackageChangeReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/icity/!svn/ver/35675/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/receiver/PackageChangeReceiver.java
+END
+SmsChangeReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/icity/!svn/ver/35598/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/receiver/SmsChangeReceiver.java
+END

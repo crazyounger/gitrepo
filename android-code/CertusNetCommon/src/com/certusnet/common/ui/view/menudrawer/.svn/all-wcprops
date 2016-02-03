@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/icity/!svn/ver/30767/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer
+END
+SlideDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/icity/!svn/ver/20530/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/SlideDrawable.java
+END
+Position.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/icity/!svn/ver/20530/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/Position.java
+END
+BuildLayerFrameLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/icity/!svn/ver/20530/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/BuildLayerFrameLayout.java
+END
+MenuDrawer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/icity/!svn/ver/30767/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/MenuDrawer.java
+END
+ViewHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/icity/!svn/ver/20530/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/ViewHelper.java
+END
+FloatScroller.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/icity/!svn/ver/20530/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/FloatScroller.java
+END
+SmoothInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/icity/!svn/ver/20530/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/SmoothInterpolator.java
+END
+SinusoidalInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/icity/!svn/ver/20530/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/SinusoidalInterpolator.java
+END
+DraggableDrawer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/icity/!svn/ver/20530/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/DraggableDrawer.java
+END
+ColorDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/icity/!svn/ver/20530/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/ColorDrawable.java
+END
+Scroller.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/icity/!svn/ver/20530/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/Scroller.java
+END
+OverlayDrawer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/icity/!svn/ver/20530/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/OverlayDrawer.java
+END
+PeekInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/icity/!svn/ver/20530/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/PeekInterpolator.java
+END
+StaticDrawer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/icity/!svn/ver/20530/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/StaticDrawer.java
+END
+NoClickThroughFrameLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/icity/!svn/ver/20530/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/NoClickThroughFrameLayout.java
+END
+SlidingDrawer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/icity/!svn/ver/20530/TermApp/iScreen/branches/CertusNetCommon/src/com/certusnet/common/ui/view/menudrawer/SlidingDrawer.java
+END

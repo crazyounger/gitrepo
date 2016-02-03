@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/pulltorefresh/internal
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/pulltorefresh/internal/Utils.java
+END
+FlipLoadingLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/pulltorefresh/internal/FlipLoadingLayout.java
+END
+PullToRefreshResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/pulltorefresh/internal/PullToRefreshResource.java
+END
+IndicatorLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/pulltorefresh/internal/IndicatorLayout.java
+END
+RotateLoadingLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/pulltorefresh/internal/RotateLoadingLayout.java
+END
+LoadingLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/pulltorefresh/internal/LoadingLayout.java
+END
+EmptyViewMethodAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/pulltorefresh/internal/EmptyViewMethodAccessor.java
+END
+ViewCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/icity/!svn/ver/18064/TermApp/iScreen/branches/CertusNetCommon/src/com/airshiplay/mobile/pulltorefresh/internal/ViewCompat.java
+END

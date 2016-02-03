@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 149
+AndroidManifest.xml
+AndroidManifest.xml.d
+R.txt
+build.prop
+certusnetcommon.jar
+classes
+classes.jar
+dexedLibs
+jarlist.cache
+proguard.txt
+res
+proguard
+
+END
